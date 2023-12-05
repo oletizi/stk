@@ -205,7 +205,7 @@
 - Documentation fixes for Reverb classes.
 - RAWWAVE_PATH changed to include the "rawwave" directory.
 - "configure" support added for unix systems.
-- Multivoice flag (-n NUMBER) added as command line option to demo program.
+- Polyvoice flag (-n NUMBER) added as command line option to demo program.
 - Sample rate flag added as command line option to example programs.
 - Socket port number added as command line option to example programs.
 
